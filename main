@@ -7,7 +7,7 @@ import 'package:getxexample/screens/productview.dart';
 void main() {
   runApp(MyApp());
 }
-
+aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
